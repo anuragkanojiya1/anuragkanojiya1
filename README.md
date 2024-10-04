@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Kanojiya</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkanojiya1&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkanojiya1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anukanojiya829" target="blank"><img src="https://img.shields.io/twitter/follow/anukanojiya829?logo=twitter&style=for-the-badge" alt="anukanojiya829" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Android App projects**
 
 - 💬 Ask me about **Jetpack Compose**
