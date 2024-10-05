@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **anurag.kanojiya829@gmail.com**
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -32,12 +33,16 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:10px;"/>
   </a>
 </p>
+<br>
 
-
-[![anuragkanojiya1's GitHub | Languages Over Time](https://stats.quira.sh/anuragkanojiya1/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=anuragkanojiya1)
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=anuragkanojiya1">
+  <img src="https://stats.quira.sh/anuragkanojiya1/languages-over-time?theme=dark" alt="anuragkanojiya1's GitHub | Languages Over Time" width="600" height="300">
+</a>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&locale=en" alt="anuragkanojiya1" /></p>
 
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&" alt="anuragkanojiya1" /></p>
 
 <h3 align="left">Connect with me:</h3>
