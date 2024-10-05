@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **anurag.kanojiya829@gmail.com**
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
