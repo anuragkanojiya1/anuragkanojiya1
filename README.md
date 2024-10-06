@@ -30,6 +30,12 @@
 </p>
 <br>
 
+**Support my work on:**
+
+[<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPFJREFUeNrsVW0NhDAMZSiYBCRMAg6YhElAAg6QgBQkIIFzMAk7SLa70rT7uB3J/bgmhUBf31u7Lmuav5Wac04fvrmrnd8GYAyD0SnyxcVtycHEVn5ZzeG9f68E0YowsCJNCQTAllHdQsRllCOq/iaYvMtUF3CgAwJ9xYD0gKc7/7XnQwjxADhZMYSv3MDZgmAQGSoEBsR1KW+saRNqz8ht4u4BltvIyABYn7uzuUdAobMgM8nhGVCpBJMrQpCb3JKnlAhBPpZu2syJEOTzpwcHt0t5L29LpogF01JPzoh8lxyNcKhA3XXbqdvIf9aeAgwApQNy3AmH0wEAAAAASUVORK5CYII="/>](https://github.com/sponsors/anuragkanojiya1)
+[<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://paypal.me/anuragkanojiya1?country.x=IN&locale.x=en_GB)
+
+<br>
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=anuragkanojiya1">
   <img src="https://stats.quira.sh/anuragkanojiya1/languages-over-time?theme=dark" alt="anuragkanojiya1's GitHub | Languages Over Time" width="600" height="300">
 </a>
