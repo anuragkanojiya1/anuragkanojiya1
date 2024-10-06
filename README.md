@@ -1,8 +1,10 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Anurag Kanojiya</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Android App projects**
-
+- 🔭 I’m looking to collaborate on **Android App projects**
+- 🌱 I’m currently learning **Data structure and algorithm**
 - 💬 Ask me about **Jetpack Compose**
 
 <h3 align="left">Languages and Tools:</h3>
