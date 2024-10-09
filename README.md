@@ -39,11 +39,9 @@
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=anuragkanojiya1">
   <img src="https://stats.quira.sh/anuragkanojiya1/languages-over-time?theme=dark" alt="anuragkanojiya1's GitHub | Languages Over Time" width="600" height="300">
 </a>
-<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&locale=en&text_color=A1A1A1&bg_color=0,000000,130F40" alt="anuragkanojiya1" /></p>
 
-<br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=tokyonight" alt="mystreak"/></p>
 
 <h3 align="left">Connect with me:</h3>
