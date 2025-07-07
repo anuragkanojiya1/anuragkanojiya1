@@ -7,27 +7,29 @@
 - 🌱 I’m currently learning **Data structure and algorithm**
 - 💬 Ask me about **Jetpack Compose**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="android" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right:10px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="40" height="40" style="margin-right:10px;"/> 
-    <img src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762" width="40" height="40" style="margin-right:10px;"/>  
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:10px;"/>
-  </a>
-</p>
+<h4 align="center">Stuff I Know</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=242424&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=242424&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=242424&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=242424&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=242424&logo=android&logoColor=white" alt="Android" />
+</div>
+
+<h4 align="center">Frameworks & Libraries I Use</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&labelColor=242424&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=242424&logo=springboot&logoColor=white" alt="Spring Boot" />
+</div>
+
+<h4 align="center">Tools I Use</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&labelColor=242424&logo=visual%20studio%20code&logoColor=007acc" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&labelColor=242424&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&labelColor=242424&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=242424&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
 <br>
 
 <h3 align="left">Support my work on:</h3>
