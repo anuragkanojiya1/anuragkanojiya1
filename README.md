@@ -38,16 +38,10 @@
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://paypal.me/anuragkanojiya1?country.x=IN&locale.x=en_GB)
 
 <br>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=anuragkanojiya1">
-  <img src="https://stats.quira.sh/anuragkanojiya1/languages-over-time?theme=dark" alt="anuragkanojiya1's GitHub | Languages Over Time" width="600" height="300">
-</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&locale=en&text_color=A1A1A1&bg_color=0,000000,130F40" alt="anuragkanojiya1" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=tokyonight" alt="mystreak"/></p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anuragkanojiya1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
