@@ -43,15 +43,14 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=tokyonight" alt="mystreak"/></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anuragkanojiya1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anuragkanojiya1&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anuragkanojiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/anuragkanojiya" height="30" width="40" /></a>
