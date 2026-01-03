@@ -41,7 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&locale=en&text_color=A1A1A1&bg_color=0,000000,130F40" alt="anuragkanojiya1" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=tokyonight" alt="mystreak"/></p>
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=dark" width="48%" >
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anuragkanojiya1&limit=5&theme=dark&combine_all_yearly_contributions=true)
