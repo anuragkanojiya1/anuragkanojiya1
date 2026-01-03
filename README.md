@@ -39,11 +39,10 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&locale=en&text_color=A1A1A1&bg_color=0,000000,130F40" alt="anuragkanojiya1" /></p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuragkanojiya1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragkanojiya1&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkanojiya1&theme=tokyonight" height="165"/>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anuragkanojiya1&limit=5&theme=dark&combine_all_yearly_contributions=true)
