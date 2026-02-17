@@ -9,11 +9,11 @@
 
 <h4 align="center">Stuff I Know</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=242424&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=242424&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=242424&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=242424&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=242424&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=242424&logo=android&logoColor=white" alt="Android" />
 </div>
 
 <h4 align="center">Frameworks & Libraries I Use</h4>
