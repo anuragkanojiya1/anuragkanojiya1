@@ -24,8 +24,8 @@
 
 <h4 align="center">Tools I Use</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&labelColor=242424&logo=visual%20studio%20code&logoColor=007acc" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&labelColor=242424&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&labelColor=242424&logo=visual%20studio%20code&logoColor=007acc" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&labelColor=242424&logo=git&logoColor=f05032" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=242424&logo=postman&logoColor=white" alt="Postman" />
 </div>
