@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Kanojiya</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
-- 🔭 I’m looking to collaborate on **Android App projects**
+- 🔭 I’m looking to collaborate on **Android App and KMP projects**
 - 🌱 I’m currently learning **Data structure and algorithm**
-- 💬 Ask me about **Jetpack Compose**
+- 💬 Ask me about **Jetpack Compose and KMP**
 
 <h4 align="center">Stuff I Know</h4>
 <div align="center">
